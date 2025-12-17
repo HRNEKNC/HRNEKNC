@@ -2,8 +2,6 @@
 
 ### CTIS - Information Systems and Technologies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HRNEKNC" alt="HRNEKNC" /></a> </p>
-
 - 🔭 I'm currently working on **Working on my skills in web development.**
 
 - 🌱 I'm currently learning **HTML, CSS, Javascript**
