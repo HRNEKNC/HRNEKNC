@@ -26,7 +26,7 @@
 - 📫 How to reach me **harunekincii312@gmail.com**
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/HarunEkinci?theme=unicorn)](https://leetcode.com/HarunEkinci/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/HarunEKINCI?theme=unicorn)](https://leetcode.com/HarunEKINCI/)
 
 
 <h3 align="left">Connect with me:</h3>
