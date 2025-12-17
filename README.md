@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **App Development (Flutter)**
 
-- 📝 My connections [Harun EKINCI](https://linktr.ee/HarunEKINCI)
+- 📝 My connections [Harun EKİNCİ](https://linktr.ee/HarunEKINCI)
 
 - 📫 How to reach me **harunekincii312@gmail.com**
 
@@ -31,7 +31,7 @@
 <a href="https://github.com/HRNEKNC"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://linkedin.com/in/haruneki̇nci̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haruneki̇nci̇" height="30" width="40" /></a>
 <a href="https://instagram.com/harun_ekinci_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harun_ekinci_00" height="30" width="40" /></a>
-<a href="https://x.com/harun_ekinci_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harun_ekinci_00" height="30" width="40" /></a>
+<a href="https://x.com/harun_ekinci_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="harun_ekinci_00" height="30" width="40" /></a>
 
 
 
