@@ -31,7 +31,9 @@
 <a href="https://github.com/HRNEKNC"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://linkedin.com/in/haruneki̇nci̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haruneki̇nci̇" height="30" width="40" /></a>
 <a href="https://instagram.com/harun_ekinci_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harun_ekinci_00" height="30" width="40" /></a>
-<a href="https://x.com/harun_ekinci_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harun_ekinci_00" height="30" width="40" /></a>
+<a href="https://x.com/harun_ekinci_00" target="_blank"><img align="center"src="https://cdn.simpleicons.org/x/ffffff"alt="X"height="30"width="40" /></a>
+
+
 
 
 
