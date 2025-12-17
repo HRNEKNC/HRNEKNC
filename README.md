@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **App Development (Flutter)**
 
-- 📝 My connections [https://linktr.ee/HarunEKINCI](https://linktr.ee/HarunEKINCI)
+- 📝 My connections [Harun EKINCI](https://linktr.ee/HarunEKINCI)
 
 - 📫 How to reach me **harunekincii312@gmail.com**
 
