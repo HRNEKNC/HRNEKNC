@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRİPT**
 
-- 🤝 I’m looking for help with **App Development (Flutter)**
+- 🤝 I’m looking for help with **Web Development, App Development**
 
 - 📝 My connections [Harun EKİNCİ](https://linktr.ee/HarunEKINCI)
 
