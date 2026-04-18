@@ -12,7 +12,7 @@
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
-<h3 align="left">&nbsp; A passionate Web developer from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate Software Developer from Türkiye</h3>
 
 
 - 🔭 I’m currently working on **Web Development**
